@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_browse_movies">
+
+    <fragment
+        android:id="@+id/navigation_browse_movies"
+        android:name="com.lectures.finalproject.ui.browse_movies.BrowseMoviesFragment"
+        android:label="@string/title_browse_movies"
+        tools:layout="@layout/fragment_browse_movies" />
+
+    <fragment
+        android:id="@+id/navigation_browse_series"
+        android:name="com.lectures.finalproject.ui.browse_series.BrowseSeriesFragment"
+        android:label="@string/title_browse_series"
+        tools:layout="@layout/fragment_browse_series" />
+
+    <fragment
+        android:id="@+id/navigation_search"
+        android:name="com.lectures.finalproject.ui.search.SearchFragment"
+        android:label="fragment_search"
+        tools:layout="@layout/fragment_search" />
+    <fragment
+        android:id="@+id/navigation_my_lists"
+        android:name="com.lectures.finalproject.ui.my_lists.MyListsFragment"
+        android:label="@string/title_my_lists"
+        tools:layout="@layout/fragment_my_lists" />
+</navigation>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">List It</string>
+    <string name="title_browse_movies">Movies</string>
+    <string name="title_browse_series">Series</string>
+    <string name="title_my_lists">My Lists</string>
+    <string name="title_search">Search</string>
+    <string name="add_to_list">Add to list</string>
+    <string name="more_details">More details</string>
+    <string name="D8A304">main color</string>
+    <string name="popular">Popular</string>
+    <string name="on_the_air">On the Air</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="dont_have_an_account">Dont have an account?</string>
+    <string name="register">Register</string>
+    <string name="have_an_account">Have an account already?</string>
+    <string name="register_now">Register now</string>
+    <string name="login_now">login now</string>
+    <string name="logout">Logout</string>
+    <string name="movies">Movies</string>
+    <string name="series">Series</string>
+    <string name="list_type">List type:</string>
+    <string name="create_new_list">Create New List</string>
+    <string name="title_activity_new_list">NewListActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="next_page">Next Page</string>
+    <string name="last_page">Last page</string>
+    <string name="pick_list">Pick list:</string>
+
+
+</resources>

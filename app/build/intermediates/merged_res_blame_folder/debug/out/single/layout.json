@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.lectures.finalproject.app-mergeDebugResources-51:/layout/fragment_main.xml",
+        "source": "com.lectures.finalproject.app-main-54:/layout/fragment_main.xml"
+    },
+    {
+        "merged": "com.lectures.finalproject.app-mergeDebugResources-51:/layout/fragment_first.xml",
+        "source": "com.lectures.finalproject.app-main-54:/layout/fragment_first.xml"
+    },
+    {
+        "merged": "com.lectures.finalproject.app-mergeDebugResources-51:/layout/fragment_search.xml",
+        "source": "com.lectures.finalproject.app-main-54:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "com.lectures.finalproject.app-mergeDebugResources-51:/layout/fragment_browse_series.xml",
+        "source": "com.lectures.finalproject.app-main-54:/layout/fragment_browse_series.xml"
+    },
+    {
+        "merged": "com.lectures.finalproject.app-mergeDebugResources-51:/layout/pick_list_popup.xml",
+        "source": "com.lectures.finalproject.app-main-54:/layout/pick_list_popup.xml"
+    },
+    {
+        "merged": "com.lectures.finalproject.app-mergeDebugResources-51:/layout/activity_login.xml",
+        "source": "com.lectures.finalproject.app-main-54:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.lectures.finalproject.app-mergeDebugResources-51:/layout/fragment_info_page.xml",
+        "source": "com.lectures.finalproject.app-main-54:/layout/fragment_info_page.xml"
+    },
+    {
+        "merged": "com.lectures.finalproject.app-mergeDebugResources-51:/layout/movie_cube.xml",
+        "source": "com.lectures.finalproject.app-main-54:/layout/movie_cube.xml"
+    },
+    {
+        "merged": "com.lectures.finalproject.app-mergeDebugResources-51:/layout/fragment_browse_movies.xml",
+        "source": "com.lectures.finalproject.app-main-54:/layout/fragment_browse_movies.xml"
+    },
+    {
+        "merged": "com.lectures.finalproject.app-mergeDebugResources-51:/layout/fragment_my_lists.xml",
+        "source": "com.lectures.finalproject.app-main-54:/layout/fragment_my_lists.xml"
+    },
+    {
+        "merged": "com.lectures.finalproject.app-mergeDebugResources-51:/layout/new_list_popup.xml",
+        "source": "com.lectures.finalproject.app-main-54:/layout/new_list_popup.xml"
+    },
+    {
+        "merged": "com.lectures.finalproject.app-mergeDebugResources-51:/layout/activity_info_page.xml",
+        "source": "com.lectures.finalproject.app-main-54:/layout/activity_info_page.xml"
+    },
+    {
+        "merged": "com.lectures.finalproject.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.lectures.finalproject.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.lectures.finalproject.app-mergeDebugResources-51:/layout/list_cube.xml",
+        "source": "com.lectures.finalproject.app-main-54:/layout/list_cube.xml"
+    },
+    {
+        "merged": "com.lectures.finalproject.app-mergeDebugResources-51:/layout/activity_new_list.xml",
+        "source": "com.lectures.finalproject.app-main-54:/layout/activity_new_list.xml"
+    }
+]

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="myPressed">#CC0000</color>
+    <color name="myYellow">#D8A304</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <string name="D8A304">main color</string>
+    <string name="add_to_list">Add to list</string>
+    <string name="app_name">List It</string>
+    <string name="create_new_list">Create New List</string>
+    <string name="default_web_client_id" translatable="false">41704694625-3h5d2jdsq740h5udvn44uciqcmcfqo7r.apps.googleusercontent.com</string>
+    <string name="dont_have_an_account">Dont have an account?</string>
+    <string name="email">Email</string>
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="gcm_defaultSenderId" translatable="false">41704694625</string>
+    <string name="google_api_key" translatable="false">AIzaSyB6RO13wxDcjwxIuhwLL3d7N5yKH5wTvh8</string>
+    <string name="google_app_id" translatable="false">1:41704694625:android:49e0863b6d8d9b31805b20</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB6RO13wxDcjwxIuhwLL3d7N5yKH5wTvh8</string>
+    <string name="google_storage_bucket" translatable="false">final-project-761ee.appspot.com</string>
+    <string name="have_an_account">Have an account already?</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="last_page">Last page</string>
+    <string name="list_type">List type:</string>
+    <string name="login">Login</string>
+    <string name="login_now">login now</string>
+    <string name="logout">Logout</string>
+    <string name="more_details">More details</string>
+    <string name="movies">Movies</string>
+    <string name="next">Next</string>
+    <string name="next_page">Next Page</string>
+    <string name="on_the_air">On the Air</string>
+    <string name="password">Password</string>
+    <string name="pick_list">Pick list:</string>
+    <string name="popular">Popular</string>
+    <string name="previous">Previous</string>
+    <string name="project_id" translatable="false">final-project-761ee</string>
+    <string name="register">Register</string>
+    <string name="register_now">Register now</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="series">Series</string>
+    <string name="title_activity_new_list">NewListActivity</string>
+    <string name="title_browse_movies">Movies</string>
+    <string name="title_browse_series">Series</string>
+    <string name="title_my_lists">My Lists</string>
+    <string name="title_search">Search</string>
+    <style name="SearchViewStyle" parent="Widget.AppCompat.SearchView">
+        
+        <item name="searchIcon">@drawable/ic_baseline_search_24</item>
+        
+        <item name="queryBackground">@color/white</item>
+        
+        <item name="searchHintIcon">@null</item>
+        <item name="android:textColor">@color/myYellow</item>
+        <item name="android:textColorPrimary">@color/myYellow</item>
+
+    </style>
+    <style name="Theme.FinalProject" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        
+        <item name="android:textColorHint">@color/myYellow</item>
+        <item name="colorPrimary">@color/myYellow</item>
+        <item name="colorPrimaryVariant">@color/myYellow</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">#4C4C4C</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/myYellow</item>
+
+        
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimaryVariant</item>
+        
+    </style>
+    <style name="Theme.FinalProject.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar"/>
+    <style name="Theme.FinalProject.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="Theme.FinalProject.PopupOverlay" parent="ThemeOverlay.AppCompat.Light"/>
+</resources>

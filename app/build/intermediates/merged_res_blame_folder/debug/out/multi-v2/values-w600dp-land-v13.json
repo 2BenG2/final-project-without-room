@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.lectures.finalproject.app-mergeDebugResources-50:/values-w600dp-land-v13/values-w600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\2beng\\.gradle\\caches\\transforms-3\\41b78f4a6b40a42efdd6473d18012552\\transformed\\material-1.7.0\\res\\values-w600dp-land-v13\\values-w600dp-land-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                }
+            ]
+        }
+    ]
+}
